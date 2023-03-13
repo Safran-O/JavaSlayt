@@ -1,0 +1,25 @@
+
+g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(ñØ“çüÿÿÿÿ8§šó¾ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÄêíÂıÿÿÿÿ8Ü¢Î¾ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¬èÀşÿÿÿÿ8Ü¢Î¾ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“ºÑµ8‘˜Ò¾ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷¤íıÿÿÿÿ8‘˜Ò¾ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îé¡”8‘˜Ò¾ç/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¢üœ’8æúÕ¾ç/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¾öçÁøÿÿÿÿ8æúÕ¾ç/
+X	java:S1251"<This block of commented-out lines of code should be removed.(ÀÛ´à8¸Åæ¾ç/
+]	java:S1253"<This block of commented-out lines of code should be removed.(öç—ùÿÿÿÿ8İŞè¾ç/
+X	java:S1256"<This block of commented-out lines of code should be removed.(šÈ÷ 8İ‡ê¾ç/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÛôÚÃüÿÿÿÿ8Ø„à¾ç/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ûê¨ï8Ûµâ¾ç/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ˆÅ•Ë8Ûµâ¾ç/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.( ¬´Æ8Ìã¾ç/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(àøˆêüÿÿÿÿ8è˜ò¾ç/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(Ïÿ’­8¬¶÷¾ç/
+R
+java:S1854T"5Remove this useless assignment to local variable "x".(…‡Ú–8°šó¾ç/
+C
+java:S1481T"&Remove this unused "x" local variable.(…‡Ú–8°šó¾ç/
+X	java:S125W"<This block of commented-out lines of code should be removed.(ø¿ëó8¨æü¾ç/
+`
+java:S3518T"CMake sure this expression can't be zero before doing this division.(…‡Ú–8·šó¾ç/

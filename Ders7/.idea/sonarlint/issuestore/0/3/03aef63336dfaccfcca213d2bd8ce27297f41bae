@@ -1,0 +1,10 @@
+
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(íêî¯øÿÿÿÿ8ØÌ…µç/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ê÷¢8¡‰Šµç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ª¼æşÿÿÿÿ8ö’Œµç/
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(›ô–8Îï¹¸ç/
+u
+java:S1104"SMake adSoyad a static final constant or non-public and provide accessors if needed.(ìê…€ùÿÿÿÿ8ØÌ…µç/
+l
+java:S1104"OMake yas a static final constant or non-public and provide accessors if needed.(Óœ‡8ØÌ…µç/

@@ -1,0 +1,15 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(…»ž¡
+]	java:S125"<This block of commented-out lines of code should be removed.(­‘”ªúÿÿÿÿ8ÎÁ¨µç/
+T
+java:S1854"7Remove this useless assignment to local variable "not".(öîç‘8ö˜¸µç/
+J
+java:S1481"(Remove this unused "not" local variable.(µ®§šùÿÿÿÿ8÷˜¸µç/
+Z
+java:S1117"8Rename "brans" which hides the field declared at line 6.(àúãÝùÿÿÿÿ8÷˜¸µç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à¼ÕÆùÿÿÿÿ8Åáºµç/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(îÀûü8¶—½µç/
+n
+java:S1104"SMake adSoyad a static final constant or non-public and provide accessors if needed.(ìê…€ùÿÿÿÿ
+g
+java:S1104"QMake brans a static final constant or non-public and provide accessors if needed.(ØÏéÕ
